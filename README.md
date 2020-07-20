@@ -1,5 +1,5 @@
 
-# otez Bien !!
+# Notez Bien !!
 
 1** La DataSet qu'on a utiliser pour entrainez notre modele s'appelle "DataSpamSms" contient 5574  Messages 
 2** toutes les parties du Code sont Bien Compris et il fonctionne parfaitement.
